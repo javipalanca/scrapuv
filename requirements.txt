@@ -1,0 +1,7 @@
+bs4
+pandas
+selenium
+python-telegram-bot
+apscheduler
+lxml
+httpx
